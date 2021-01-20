@@ -1,2 +1,2 @@
-# F1C1_starter
+# F1C1_start
 Codecademy project
